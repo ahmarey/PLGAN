@@ -1,6 +1,6 @@
 # PLGAN 
 
-This is a github repositroy for the PATH LOSS GAN Project.
+This is a github repository for the PATH LOSS GAN Project.
 
 Running the Evaluation code infer.py will generate the path loss images and the statistical comparisons between the height map input and satellite image input.
 
