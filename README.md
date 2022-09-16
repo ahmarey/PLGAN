@@ -9,7 +9,7 @@
 
 [**PL-GAN: Path Loss Prediction using Generative Adversarial Networks**](https://ieeexplore.ieee.org/document/9866771)<br/>
 [Ahmed Marey](https://github.com/ahmarey),
-Mustafa Bal,
+[Mustafa Bal](https://github.com/MstfBal),
 [Hasan Ates](https://github.com/hfates)\,
 [Bahadir Gunturk](https://github.com/bahadirgunturk)
 
